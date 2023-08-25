@@ -1,0 +1,20 @@
+.fa {
+    cursor: pointer;
+    transition: color ease-in-out 0.5s;
+}
+
+.fa:hover {
+    color: rgb(30, 134, 160);
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.bg-blue {
+    background-color: #0d6efd;
+}
+
+.bg-uno {
+    background-color: #ffd43b;
+}
